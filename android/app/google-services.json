@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083167590472",
+    "project_id": "fir-movieapp-a6bf2",
+    "storage_bucket": "fir-movieapp-a6bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083167590472:android:8bd0339d291cb525ca707d",
+        "android_client_info": {
+          "package_name": "com.jittalovesnature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083167590472-j2eh0p9uk8q51pplf7n3v8o9vs2dcb5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb80yifuzJjOkNO5TVUHPP5LPr-ixAHfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083167590472-j2eh0p9uk8q51pplf7n3v8o9vs2dcb5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
